@@ -98,6 +98,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=guipcarvalho&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=guipcarvalho&theme=darcula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=guipcarvalho&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guipcarvalho&theme=darcula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br/>  
