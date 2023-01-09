@@ -6,10 +6,10 @@
 ### <div align="center">I'm Luis Guilherme Carvalho, a full-stack software engineer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [LayerOne](https://layer-one.com/)  
+- 🔭 I’m currently working at [LayerOne](https://layer-one.com/)  
   
 
-- ❓ Ask me about anything related to .NET stack and related technologies  
+- ❓ Ask me anything related to .NET stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
