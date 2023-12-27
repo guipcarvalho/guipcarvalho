@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luis Guilherme Carvalho, a full-stack software engineer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working at [LayerOne](https://layer-one.com/)  
+- 🔭 I’m currently working at [LayerOne](https://layeronesoftware.com/)  
   
 
 - ❓ Ask me anything related to .NET stack and related technologies  
